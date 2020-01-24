@@ -11,6 +11,9 @@
 # production
 /build
 
+# Brains files
+/.idea
+
 # misc
 .DS_Store
 .env.local

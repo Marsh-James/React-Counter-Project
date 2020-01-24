@@ -2,8 +2,8 @@
 This is a tutorial solution for generating multiple products with
 their own incrementer. Following the React Crash Course [2019] tutorial by [programming with mosh](https://www.youtube.com/watch?v=Ke90Tje7VS0).
 
-#Short demo of solution:
-![Demo](https://i.imgur.com/VlPOAn2.mp4)
+Short demo of solution:
+![](resources/demo.gif)
 
 
 Below is the default react scripts to use for executing this program.
